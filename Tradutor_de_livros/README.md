@@ -33,7 +33,7 @@ Nota: Para usar o OCR do pytesseract, você precisa ter o Tesseract OCR instalad
 1. Prepare o ambiente
 	Clone o repositório e instale as dependências:
 
-	git clone https://github.com/arthur-202/Tradutor_de_livros.git
+	git clone [https://github.com/arthur-202/Tradutor_de_livros.git](https://github.com/arthur-202/Portifolio/tree/main/Tradutor_de_livros)
 	cd Tradutor_de_livros
 	pip install -r requirements.txt
 
