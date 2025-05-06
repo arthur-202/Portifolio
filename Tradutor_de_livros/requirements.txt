@@ -1,0 +1,5 @@
+pytesseract
+PyMuPDF
+pdf2image
+deep-translator
+
