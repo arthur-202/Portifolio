@@ -34,12 +34,13 @@ Nota: Para usar o OCR do pytesseract, você precisa ter o Tesseract OCR instalad
 	Clone o repositório e instale as dependências:
 
 	git clone [https://github.com/arthur-202/Tradutor_de_livros.git](https://github.com/arthur-202/Portifolio/tree/main/Tradutor_de_livros)
-	cd Tradutor_de_livros
+	
+ 	cd Tradutor_de_livros
 	pip install -r requirements.txt
 
 2. Execute o Programa
+   
 	Após instalar as dependências, você pode executar o tradutor diretamente utilizando o arquivo main.py:
-
 	python tradutor_livros/main.py
 
 O programa solicitará o caminho do arquivo PDF ou imagem (JPG, PNG, JPEG). Ele irá verificar o tipo de arquivo, extrair o texto e traduzi-lo. O texto traduzido será salvo em um arquivo livro_traduzido.txt dentro da pasta output.
