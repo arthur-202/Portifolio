@@ -29,7 +29,7 @@ Este script automatiza o envio de imagens para o OCR do site [sanskritdictionary
 	Biblioteca requests:
 ```bash
 	pip install requests
-``	
+```	
 MIT License
 
 Copyright (c) 2025 Arthur Pereira Tavares
