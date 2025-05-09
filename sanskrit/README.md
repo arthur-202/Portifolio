@@ -27,9 +27,9 @@ Este script automatiza o envio de imagens para o OCR do site [sanskritdictionary
 #📋 Requisitos
 	Python 3.x
 	Biblioteca requests:
-	```bash
+```bash
 	pip install requests
-	
+``	
 MIT License
 
 Copyright (c) 2025 Arthur Pereira Tavares
