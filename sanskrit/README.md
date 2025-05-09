@@ -16,8 +16,7 @@ Este script automatiza o envio de imagens para o OCR do site [sanskritdictionary
 1. Coloque todas as imagens que deseja processar na pasta `images/`
 2. Execute o script:
    ```bash
-   python script.py
-
+   python script.py ```
 3. Os arquivos de texto com o OCR formatado serão salvos na pasta ocrs/
 
 #📌 Funcionalidades
@@ -30,11 +29,12 @@ Este script automatiza o envio de imagens para o OCR do site [sanskritdictionary
 	Biblioteca requests:
 ```bash
 	pip install requests
+```
 	
 MIT License
 
 Copyright (c) 2025 Arthur Pereira Tavares
-
+ 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights  
